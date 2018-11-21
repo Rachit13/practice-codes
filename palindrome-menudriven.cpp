@@ -6,7 +6,6 @@ void string_palindrome(char text[50]);
 int main()
 {
   int choice,num;
-  string text2;
   char text[50];
   do
   {
@@ -64,7 +63,7 @@ void string_palindrome(char text[50])
 	 end--;
    }
   if(begin==mid)
-   cout<<"\nString is a paindrome";
+   cout<<"\nString is a palindrome";
  }
 
 			
