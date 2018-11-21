@@ -1,5 +1,4 @@
 
-#include<string.h>
 #include<iostream>
 using namespace std;
 void number_palindrome(int num);
